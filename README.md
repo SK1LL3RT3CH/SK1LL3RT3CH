@@ -1,6 +1,6 @@
 # 📊 Abdulbasit Chughtai - Data Analyst
 
-## 👋 Welcome to My GitHub Repository!
+## Abdout Me
 Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expertise in:
 
 ### 🛠️ Languages and Tools:
