@@ -21,6 +21,5 @@ This GitHub repository showcases my journey in Data Analytics, including:
 - Continue solving **CodeWars** challenges to refine problem-solving skills 💡
 
 ## 📫 Connect with Me
-If you're interested in collaborating or just want to chat about data, feel free to reach out:
+If you're interested in collaborating or just want to chat about Fata, feel free to reach out:
 
-Thanks for stopping by! 😊 Happy Coding! 💻🚀
