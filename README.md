@@ -1,17 +1,15 @@
-# 📊 Abdulbasit Chughtai - Data Analyst
+Z# 📊 Abdulbasit Chughtai - Data Analyst
 
 ## 👋 Welcome to My GitHub Repository!
 Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expertise in:
 
-- 📊 **Power BI** & **Tableau**  
-- 📈 **Excel**  
-- 🗄️ **SQL**  
-- 🐍 **Python**  
+### 🛠️ Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=python,sql,tableau,powerbi,excel)](https://skillicons.dev)
 
-I have **over 1 year** of experience in Data analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
+I have **over 1 year** of experience in data analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
 ## 🚀 What You'll Find Here
-This GitHub repository showcases my journey in Data Analytics, including:
+This GitHub repository showcases my journey in data analytics, including:
 
 - **SQL & Python Projects** 🛠️
 - **Power BI & Tableau Dashboards** 📊
@@ -23,6 +21,6 @@ This GitHub repository showcases my journey in Data Analytics, including:
 - Continue solving **CodeWars** challenges to refine problem-solving skills 💡
 
 ## 📫 Connect with Me
-If you're interested in collaborating or just want to chat about Data, feel free to reach out:
+If you're interested in collaborating or just want to chat about data, feel free to reach out:
 
 Thanks for stopping by! 😊 Happy Coding! 💻🚀
