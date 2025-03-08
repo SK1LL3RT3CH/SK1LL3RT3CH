@@ -6,7 +6,8 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github)](https://skillicons.dev) 
 <img src="https://www.google.com/url?
-sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw10IHHKTQekVLr7nU9z0_Br&ust=1741540920659000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD8qNT_-osDFQAAAAAdAAAAABAd" width="50"/>
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
