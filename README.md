@@ -17,7 +17,15 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
   <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" width="40" height="40" style="border-radius: 8px;"/>
 </p>
 
-
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Notion](https://skillicons.dev/icons?i=notion)
+![GitHub](https://skillicons.dev/icons?i=github)
+<img src="./assets/icons/powerbi.png" width="50" height="50">
+<img src="./assets/icons/tableau.png" width="50" height="50">
+<img src="./assets/icons/excel.png" width="50" height="50">
 
 
 
