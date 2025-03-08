@@ -4,7 +4,7 @@
 Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expertise in:
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,sql,tableau,powerbi,excel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github)](https://skillicons.dev)
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
