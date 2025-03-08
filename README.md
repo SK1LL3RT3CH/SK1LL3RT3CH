@@ -9,6 +9,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 
 
+
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
 ## 🚀 What You'll Find Here
