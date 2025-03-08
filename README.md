@@ -25,7 +25,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ![GitHub](https://skillicons.dev/icons?i=github)
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000 " width="50" height="50">
 <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="50">
-<img src="./assets/icons/excel.png" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50">
 
 
 
