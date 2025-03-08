@@ -23,7 +23,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![GitHub](https://skillicons.dev/icons?i=github)
-<img src="./assets/icons/powerbi.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg " width="50" height="50">
 <img src="./assets/icons/tableau.png" width="50" height="50">
 <img src="./assets/icons/excel.png" width="50" height="50">
 
