@@ -13,8 +13,8 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="border-radius: 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Tableau_Logo.png" alt="Tableau" width="40" height="40" style="border-radius: 8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="border-radius: 8px;"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40" style="border-radius: 8px;"/>
+  <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" width="40" height="40" style="border-radius: 8px;"/>
 </p>
 
 
