@@ -6,6 +6,8 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github)](https://skillicons.dev) 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+<img src="https://www.logo.wine/logo/Microsoft_Excel" width="40"/>
+
 
 
 
