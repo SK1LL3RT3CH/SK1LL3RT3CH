@@ -8,6 +8,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 <img src="https://github.com/user-attachments/assets/fde272d4-adeb-427b-94b9-580800d9c6fc" width="48" height="48" hspace="4">
 <img src="https://github.com/user-attachments/assets/a9ae2693-3df7-4145-9715-5156cd0c878f" width="48" height="48">
 <img src="https://github.com/user-attachments/assets/daeae478-fda3-4ede-b122-ee08e4ff0b6e" width="48" height="48" hspace="4">
+<img src="https://github.com/user-attachments/assets/7d6fcfae-b04f-4b2a-a6b9-4b6ec1d6b26f" width="48" height="48">
 
 
 
