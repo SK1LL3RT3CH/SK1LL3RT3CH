@@ -5,15 +5,11 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github)](https://skillicons.dev) 
-<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000 " width="50" height="50">
+<img src="https://github.com/user-attachments/assets/fde272d4-adeb-427b-94b9-580800d9c6fc" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/a9ae2693-3df7-4145-9715-5156cd0c878f" width="50" height="50">
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50">
-
-![image](https://github.com/user-attachments/assets/a9ae2693-3df7-4145-9715-5156cd0c878f)
+<img src="https://github.com/user-attachments/assets/daeae478-fda3-4ede-b122-ee08e4ff0b6e" width="50" height="50">
 
 
-https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000
-![image](https://github.com/user-attachments/assets/08d33202-0d39-4aba-8c62-51e0fb7cf837)
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
