@@ -6,10 +6,12 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,notion,github)](https://skillicons.dev) 
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000 " width="50" height="50">
-<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="50" height="50">
+<img src="![image](https://github.com/user-attachments/assets/08d33202-0d39-4aba-8c62-51e0fb7cf837)" width="50" height="50">
 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50" height="50">
 
 
+https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000
+![image](https://github.com/user-attachments/assets/08d33202-0d39-4aba-8c62-51e0fb7cf837)
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
