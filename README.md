@@ -9,7 +9,8 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 <img src="https://github.com/user-attachments/assets/a9ae2693-3df7-4145-9715-5156cd0c878f" width="48" height="48">
 <img src="https://github.com/user-attachments/assets/daeae478-fda3-4ede-b122-ee08e4ff0b6e" width="48" height="48" hspace="4">
 <a href="https://www.linkedin.com/in/abdulbasit-chughtai/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="48" height="48">
+  <img src="![image](https://github.com/user-attachments/assets/14c1621c-446d-4308-b53c-8cba206a3a72)
+" width="48" height="48">
 </a>
 
 
