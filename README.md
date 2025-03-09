@@ -10,7 +10,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 <img src="https://github.com/user-attachments/assets/daeae478-fda3-4ede-b122-ee08e4ff0b6e" width="48" height="48" hspace="4">
 <img src="https://github.com/user-attachments/assets/7d6fcfae-b04f-4b2a-a6b9-4b6ec1d6b26f" width="48" height="48">
 https://www.linkedin.com/in/abdulbasit-chughtai/
-[![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://www.linkedin.com/in/abdulbasit-chughtai/)
+[![LinkedIn](https://github.com/user-attachments/assets/7d6fcfae-b04f-4b2a-a6b9-4b6ec1d6b26f)](https://www.linkedin.com/in/abdulbasit-chughtai/)
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
