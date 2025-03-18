@@ -7,9 +7,6 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,pycharm,anaconda)](https://skillicons.dev) 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,pbi,tableau,pandas,excel)
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,vscode,pycharm,anaconda)](https://skillicons.dev)  
-<img src="https://via.placeholder.com/50x10" width="50">  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,pbi,tableau,pandas,excel)
 
 <div style="display:flex; align-items:center;">
     <img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode,pycharm,anaconda" />
