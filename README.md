@@ -12,7 +12,7 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 <a href="https://www.linkedin.com/in/abdulbasit-chughtai/" target="_blank">
   <img src="https://github.com/user-attachments/assets/7d6fcfae-b04f-4b2a-a6b9-4b6ec1d6b26f" width="48" height="48" hspace="4">
 </a>
-    [![My Skills](https://skillicons.dev/icons?i=notion,github)](https://skillicons.dev) 
+    
 
 
 
