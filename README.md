@@ -8,13 +8,6 @@ Hi there! I'm **Abdulbasit Chughtai**, a passionate **Data Analyst** with expert
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jupyter,pbi,tableau,pandas,excel)
 
 
-<div style="display:flex; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,vscode,pycharm,anaconda" />
-    <span style="width:50px;"></span>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,pbi,tableau,pandas,excel" />
-</div>
-
-
 
 I have **over 2 year** of experience in Data Analysis and currently work at **Alexander Maclean**, an E-learning provider. I'm also working towards a **Data Analyst certification** to further enhance my skills. 
 
