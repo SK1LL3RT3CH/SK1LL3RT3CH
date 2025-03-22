@@ -17,7 +17,6 @@ This GitHub repository showcases my journey in Data Analytics, including:
 - **SQL & Python Projects** 🛠️
 - **Power BI & Tableau Dashboards** 📊
 - **Excel Data Analysis** 📑
-- **Code Challenges from CodeWars** 🎯
 
 ## 🎯 My Goals
 - Improve my SQL & Python skills through projects 🚀
